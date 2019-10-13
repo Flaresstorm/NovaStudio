@@ -1,16 +1,16 @@
 # NovaStudio
-PHP full store website
+PHP full store website<br/>
 
-Includes
--- MVC Php code
--- CSS/Js
+Includes<br/>
+-- MVC Php code<br/>
+-- CSS/Js<br/>
 
-how make it run?
+how make it run?<br/>
 
--- donwload the zip and extract
--- run your xampp
--- import the novastudio.sql file
--- ready to go
+-- donwload the zip and extract<br/><br/>
+-- run your xampp<br/>
+-- import the novastudio.sql file<br/>
+-- ready to go<br/>
 
 
 ![Productos](https://user-images.githubusercontent.com/40246864/66709827-ef95c700-ed39-11e9-924c-17d86299030f.png)
